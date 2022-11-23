@@ -1,2 +1,3 @@
 # Galactus
-A dump of code that may or not be related to each other.
+If you are reading this, Hi!
+This repository is just full of random files I thought was worth saving.
